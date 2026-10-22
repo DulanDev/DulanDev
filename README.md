@@ -1,20 +1,53 @@
-<p align="center" dir="auto">
-  <samp>
-    <a href="https://dulan.me/" rel="nofollow">Me</a>  . <a href="https://dulan.me/work" rel="nofollow">Projects</a> . <a href="https://dulan.me/blog" rel="nofollow" >Blog</a> . <a href="https://www.npmjs.com/~dulanh" rel="nofollow" >NPM</a>
-  </samp>
-</p>
+# Hey, I'm Dulan 👋
 
-<!--
-**DulanHewage/DulanHewage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-leaning fullstack engineer based in Munich, Germany. I build web applications,
+reusable UI components, and tools for developers - mostly with Vue,
+Nuxt, and TypeScript.
 
-Here are some ideas to get you started:
+Outside work, I maintain open-source projects and build things around
+my interests in photography, music, and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/dulan.me-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://dulan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/dulanhewage/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~dulanh)
+
+## Selected projects
+
+- **[Microsoft Authentication Library for Vue 3](https://github.com/DulanDev/vue3-msal)**:
+  an open-source plugin for integrating Microsoft authentication into Vue 3 applications, with composables.
+  [![npm downloads](https://img.shields.io/npm/dy/vue3-msal-plugin?style=flat-square&label=downloads)](https://www.npmjs.com/package/vue3-msal-plugin)
+  [![GitHub stars](https://img.shields.io/github/stars/DulanDev/vue3-msal?style=flat-square)](https://github.com/DulanDev/vue3-msal)
+- **[AspectFit Studio](https://aspectfitstudio.com)**:
+  a web app for resizing and preparing images for social media, without cropping and all in the browser.
+  1,000+ monthly users. Built with Nuxt, TypeScript, and HTML Canvas.
+- **[WhatsTheNextChord](https://whatsthenextchord.com)**:
+  a songwriting tool that suggests the next chord based on real chord progressions.
+  Built with Nuxt and TypeScript, on the Frontpanel UI kit.
+- **[Frontpanel](https://github.com/DulanDev/frontpanel)**:
+  an open-source UI kit inspired by early-2000s hardware: chrome bezels, gel buttons, LCD readouts, and LEDs.
+  Built with plain CSS and Vue 3 components. [Docs](https://dulandev.github.io/frontpanel)
+- **[GoImager](https://github.com/DulanDev/GoImager)**:
+  a self-hostable REST API for image processing, written in Go. An open-source alternative to Cloudinary and imgix.
+- **[Puppeteer Infinite Scroller](https://github.com/DulanDev/puppeteer-infinite-scroller)**:
+  a small library for scraping data from pages that load it by infinite scrolling.
+  [![npm downloads](https://img.shields.io/npm/dy/puppeteer-infinite-scroller?style=flat-square&label=downloads)](https://www.npmjs.com/package/puppeteer-infinite-scroller)
+  [![GitHub stars](https://img.shields.io/github/stars/DulanDev/puppeteer-infinite-scroller?style=flat-square)](https://github.com/DulanDev/puppeteer-infinite-scroller)
+
+[More projects →](https://dulan.me/projects)
+
+## Tools & technologies
+
+- Frontend: TypeScript, JavaScript, Vue, Nuxt, Tailwind CSS, Pinia
+- Backend: Node.js, Fastify, Go, PostgreSQL, MySQL, Prisma
+- Testing: Vitest, Playwright, Cypress
+- Tooling: Vite, GitHub Actions, Docker, Storybook
+- AI: LLM integrations, MCP, coding agents
+
+## Away from the keyboard
+
+Photography, playing guitar, recording music, and finding somewhere new to explore.
+
+## Get in touch
+
+I'm open to frontend, fullstack and AI engineering roles.
+Find me on [LinkedIn](https://www.linkedin.com/in/dulanhewage/) or through [my website](https://dulan.me).
