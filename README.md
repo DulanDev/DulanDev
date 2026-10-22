@@ -14,7 +14,6 @@ my interests in photography, music, and developer tooling.
 - **[Microsoft Authentication Library for Vue 3](https://github.com/DulanDev/vue3-msal)**:
   an open-source plugin for integrating Microsoft authentication into Vue 3 applications, with composables.
   [![npm downloads](https://img.shields.io/npm/dy/vue3-msal-plugin?style=flat-square&label=downloads)](https://www.npmjs.com/package/vue3-msal-plugin)
-  [![GitHub stars](https://img.shields.io/github/stars/DulanDev/vue3-msal?style=flat-square)](https://github.com/DulanDev/vue3-msal)
 - **[AspectFit Studio](https://aspectfitstudio.com)**:
   a web app for resizing and preparing images for social media, without cropping and all in the browser.
   1,000+ monthly users. Built with Nuxt, TypeScript, and HTML Canvas.
@@ -29,7 +28,6 @@ my interests in photography, music, and developer tooling.
 - **[Puppeteer Infinite Scroller](https://github.com/DulanDev/puppeteer-infinite-scroller)**:
   a small library for scraping data from pages that load it by infinite scrolling.
   [![npm downloads](https://img.shields.io/npm/dy/puppeteer-infinite-scroller?style=flat-square&label=downloads)](https://www.npmjs.com/package/puppeteer-infinite-scroller)
-  [![GitHub stars](https://img.shields.io/github/stars/DulanDev/puppeteer-infinite-scroller?style=flat-square)](https://github.com/DulanDev/puppeteer-infinite-scroller)
 
 [More projects →](https://dulan.me/projects)
 
