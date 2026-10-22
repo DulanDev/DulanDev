@@ -7,9 +7,7 @@ Nuxt, and TypeScript.
 Outside work, I maintain open-source projects and build things around
 my interests in photography, music, and developer tooling.
 
-[![Website](https://img.shields.io/badge/dulan.me-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://dulan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/dulanhewage/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~dulanh)
+[Website](https://dulan.me) · [LinkedIn](https://www.linkedin.com/in/dulanhewage/) · [npm](https://www.npmjs.com/~dulanh)
 
 ## Selected projects
 
@@ -37,11 +35,12 @@ my interests in photography, music, and developer tooling.
 
 ## Tools & technologies
 
-- Frontend: TypeScript, JavaScript, Vue, Nuxt, Tailwind CSS, Pinia
-- Backend: Node.js, Fastify, Go, PostgreSQL, MySQL, Prisma
-- Testing: Vitest, Playwright, Cypress
-- Tooling: Vite, GitHub Actions, Docker, Storybook
-- AI: LLM integrations, MCP, coding agents
+- Frontend: TypeScript, JavaScript, Vue, Nuxt, React, Angular, Pinia, TailwindCSS, SCSS, Design Systems
+- Backend: Node.js, Fastify, Go, PostgreSQL, MySQL, Prisma, Firebase, Supabase
+- APIs & documentation: REST, OpenAPI, Scalar, VitePress
+- Testing & accessibility: Vitest, Jest, Playwright, Cypress, axe
+- Build & deployment: Vite, esbuild, GitHub Actions, Docker, Vercel, AWS, Cloudflare
+- AI engineering: LLM integration, agent workflows, MCP integrations, agent skills, prompt & context engineering
 
 ## Away from the keyboard
 
