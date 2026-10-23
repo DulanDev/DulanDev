@@ -2,7 +2,7 @@
 
 Frontend-leaning fullstack engineer based in Munich, Germany. I build web applications,
 reusable UI components, and tools for developers - mostly with Vue,
-Nuxt, and TypeScript.
+Nuxt, NodeJS and TypeScript.
 
 Outside work, I maintain open-source projects and build things around
 my interests in photography, music, and developer tooling.
